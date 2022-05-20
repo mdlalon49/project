@@ -1,0 +1,40 @@
+[29-Mar-2022 18:32:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/megapers/public_html/megaepersonaels.com/users/auth/login/index.php on line 16
+[29-Mar-2022 18:32:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/megapers/public_html/megaepersonaels.com/users/auth/login/index.php on line 16
+[29-Mar-2022 18:33:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/megapers/public_html/megaepersonaels.com/users/auth/login/index.php on line 16
+[29-Mar-2022 18:34:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/megapers/public_html/megaepersonaels.com/users/auth/login/index.php on line 16
+[29-Mar-2022 18:58:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/megapers/public_html/megaepersonaels.com/users/auth/login/index.php on line 16
+[29-Mar-2022 18:59:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/megapers/public_html/megaepersonaels.com/users/auth/login/index.php on line 16
+[29-Mar-2022 19:00:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home1/megapers/public_html/megaepersonaels.com/users/auth/login/index.php on line 16
+[01-Apr-2022 18:56:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/lalmiaco/megapersunals.com/users/auth/login/index.php on line 16
+[01-Apr-2022 18:56:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/lalmiaco/megapersunals.com/users/auth/login/index.php on line 16
+[01-Apr-2022 18:58:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/lalmiaco/megapersunals.com/users/auth/login/index.php on line 16
+[01-Apr-2022 19:06:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/lalmiaco/megapersunals.com/users/auth/login/index.php on line 16
+[02-Apr-2022 16:48:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/lalmiaco/megapersunals.com/users/auth/login/index.php on line 16
+[02-Apr-2022 18:29:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/lalmiaco/megapersunals.com/users/auth/login/index.php on line 16
+[08-Apr-2022 11:30:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'lalmiaco_Lal'@'localhost' (using password: YES) in /home/megapers/public_html/megapersoanals.com/users/auth/login/db.php on line 6
+[08-Apr-2022 11:30:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/megapers/public_html/megapersoanals.com/users/auth/login/db.php:8
+Stack trace:
+#0 /home/megapers/public_html/megapersoanals.com/users/auth/login/index.php(4): include_once()
+#1 {main}
+  thrown in /home/megapers/public_html/megapersoanals.com/users/auth/login/db.php on line 8
+[08-Apr-2022 11:30:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'lalmiaco_Lal'@'localhost' (using password: YES) in /home/megapers/public_html/megapersoanals.com/users/auth/login/db.php on line 6
+[08-Apr-2022 11:30:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/megapers/public_html/megapersoanals.com/users/auth/login/db.php:8
+Stack trace:
+#0 /home/megapers/public_html/megapersoanals.com/users/auth/login/index.php(4): include_once()
+#1 {main}
+  thrown in /home/megapers/public_html/megapersoanals.com/users/auth/login/db.php on line 8
+[08-Apr-2022 11:30:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'lalmiaco_Lal'@'localhost' (using password: YES) in /home/megapers/public_html/megapersoanals.com/users/auth/login/db.php on line 6
+[08-Apr-2022 11:30:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/megapers/public_html/megapersoanals.com/users/auth/login/db.php:8
+Stack trace:
+#0 /home/megapers/public_html/megapersoanals.com/users/auth/login/index.php(4): include_once()
+#1 {main}
+  thrown in /home/megapers/public_html/megapersoanals.com/users/auth/login/db.php on line 8
+[08-Apr-2022 11:31:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/megapers/public_html/megapersoanals.com/users/auth/login/index.php on line 16
+[08-Apr-2022 21:43:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/megapers/public_html/megapersoanals.com/users/auth/login/index.php on line 16
+[08-Apr-2022 21:48:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/megapers/public_html/megapersoanals.com/users/auth/login/index.php on line 16
+[08-Apr-2022 21:48:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/megapers/public_html/megapersoanals.com/users/auth/login/index.php on line 16
+[09-Apr-2022 00:04:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/megapers/public_html/megapersoanals.com/users/auth/login/index.php on line 16
+[09-Apr-2022 13:18:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/megapers/public_html/megapersoanals.com/users/login/index.php on line 16
+[20-Apr-2022 20:59:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/megapers/megapersonal.live/users/login/index.php on line 16
+[20-Apr-2022 21:23:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/megapers/megapersonal.live/users/login/index.php on line 16
+[20-Apr-2022 22:21:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/megapers/megapersonal.live/users/login/index.php on line 16
